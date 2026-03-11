@@ -23,5 +23,4 @@ The program can solve Sudoku puzzles using logical algorithms.
 2. Navigate to the project folder
 3. Run the program
 
-```bash
-python sudoku.py
+
